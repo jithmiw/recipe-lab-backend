@@ -1,4 +1,3 @@
 fastapi
-transformers[torch]
-flax
+transformers
 uvicorn[standard]
