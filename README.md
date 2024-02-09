@@ -1,8 +1,5 @@
 # Recipe Lab
 
-![img.png](public/images/screencapture-1.png)
-![img.png](public/images/screencapture-2.png)
-
 ## About Recipe Lab
 
 In a world of endless culinary possibilities, finding the perfect recipe can be overwhelming. Recipe Lab addresses this challenge by providing personalized recipe recommendations tailored to users' ingredients and preferences. Our cutting-edge technology combines a vast recipe database with advanced algorithms to deliver structured, context-aware, and commonsense-driven content.
